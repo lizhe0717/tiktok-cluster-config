@@ -1,6 +1,6 @@
 {
-  "server_url": "",
+  "server_url": "https://tiktok-cluster-server-production.up.railway.app",
   "backup_server_url": "",
-  "version": 1,
+  "version": 2,
   "heartbeat_interval": 15
 }
