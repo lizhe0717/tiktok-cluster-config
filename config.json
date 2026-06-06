@@ -1,7 +1,7 @@
 {
   "server_url": "http://129.226.84.233",
   "backup_server_url": "",
-  "version": 5,
+  "version": 6,
   "heartbeat_interval": 10,
   "ip_detect_url": "https://myip.ipip.net",
   "ip_lookup_url": "https://api.live.bilibili.com/ip_service/v1/ip_service/get_ip_addr"
